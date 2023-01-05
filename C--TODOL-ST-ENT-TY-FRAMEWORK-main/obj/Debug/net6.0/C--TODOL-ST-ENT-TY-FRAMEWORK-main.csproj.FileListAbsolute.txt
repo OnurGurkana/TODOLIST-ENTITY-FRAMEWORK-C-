@@ -1,0 +1,5 @@
+C:\Users\WT-OGRENCI-01\Desktop\C--TODOL-ST-ENT-TY-FRAMEWORK-main\obj\Debug\net6.0\C--TODOL-ST-ENT-TY-FRAMEWORK-main.csproj.AssemblyReference.cache
+C:\Users\WT-OGRENCI-01\Desktop\C--TODOL-ST-ENT-TY-FRAMEWORK-main\obj\Debug\net6.0\C--TODOL-ST-ENT-TY-FRAMEWORK-main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WT-OGRENCI-01\Desktop\C--TODOL-ST-ENT-TY-FRAMEWORK-main\obj\Debug\net6.0\C--TODOL-ST-ENT-TY-FRAMEWORK-main.AssemblyInfoInputs.cache
+C:\Users\WT-OGRENCI-01\Desktop\C--TODOL-ST-ENT-TY-FRAMEWORK-main\obj\Debug\net6.0\C--TODOL-ST-ENT-TY-FRAMEWORK-main.AssemblyInfo.cs
+C:\Users\WT-OGRENCI-01\Desktop\C--TODOL-ST-ENT-TY-FRAMEWORK-main\obj\Debug\net6.0\C--TODOL-ST-ENT-TY-FRAMEWORK-main.csproj.CoreCompileInputs.cache
